@@ -1,11 +1,11 @@
 ---
 title: Home
-permalink: https://gabrieljonesdeve.github.io/uswds-jekyll/
+permalink: /
 
 layout: home
 
 hero:
-  image: https://gabrieljonesdeve.github.io/uswds-jekyll/assets/uswds/img/hero.png
+  image: /uswds-jekyll/assets/uswds/img/hero.png
   callout:
     alt: "Hero callout:"
     text: Bring attention to a current priority
