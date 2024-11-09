@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /
+permalink: https://gabrieljonesdeve.github.io/uswds-jekyll/
 
 layout: home
 
