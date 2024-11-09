@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /assets/uswds/img/hero.png
+  image: https://gabrieljonesdeve.github.io/uswds-jekyll/assets/uswds/img/hero.png
   callout:
     alt: "Hero callout:"
     text: Bring attention to a current priority
